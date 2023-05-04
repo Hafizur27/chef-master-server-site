@@ -1,0 +1,1219 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "chef": {
+      "name": "Asad Latif",
+      "recipe_number": "8",
+      "likes": "5",
+      "experience": "6 years",
+      "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    "recipes_1": {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": "1 kg boneless chicken cut into small pieces, 1 cup yogurt, 2 tablespoons ginger garlic paste, 1 teaspoon cumin powder, 1 teaspoon coriander powder",
+      "cooking_method": "In a large bowl, mix together the yogurt, ginger garlic paste, cumin powder, coriander powder, red chili powder, and salt. Add the chicken pieces to the bowl and coat them well with the marinade. Let it marinate for at least 2 hours. Preheat the oven to 200°C. Thread the chicken pieces onto skewers and place them on a baking tray.Brush some oil over the chicken and bake in the oven for 15-20 minutes, until cooked through. Garnish with chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Biryani",
+      "ingredients": "1 kg chicken or lamb cut into small pieces, 4 cups basmati rice, 2 onions sliced, 4 tomatoes chopped,4 green chilies chopped,1 tablespoon ginger garlic paste",
+      "cooking_method": "Rinse the rice and soak it in water for 30 minutes.In a large pot, heat up some oil and fry the sliced onions until golden brown. Remove and set aside. In the same pot, add the chopped tomatoes, green chilies, ginger garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5 minutes. Add the chicken or lamb pieces back to the pot and mix well. Drain the soaked rice and add it to the pot. Mix well and add enough water to cover the rice. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes, until the rice is tender and cooked through. Garnish with fried onions and chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Gulab Jamun",
+      "ingredients": "1 cup milk powder,1/2 cup all-purpose flour,1/2 teaspoon baking powder,1/4 teaspoon cardamom powder,1/4 cup ghee",
+      "cooking_method": "In a large bowl, mix together the milk powder, all-purpose flour, baking powder, and cardamom powder.Add the ghee and mix well with your hands until the mixture resembles bread crumbs.Gradually add the milk and knead the mixture into a soft dough.Divide the dough into small balls",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "chef": {
+      "name": "Vineet Bhatia",
+      "recipe_number": "12",
+      "likes": "6",
+      "experience": "20 years",
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    },
+    "recipes_1": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "2",
+    "chef": {
+      "name": "Shirley Chung",
+      "recipe_number": "10",
+      "likes": "7",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Shirley Chung attended the California Culinary Academy, San Francisco, where she trained in classic French and Italian cuisine.She began by working and opening restaurants for Thomas Keller, Guy Savoy and Mario Batali. In season 11 of “Top Chef” in New Orleans, she was the finalist. She also competed on season 14 of BravoTV’s Top Chef, where she named the runner-up of Top Chef.In 2014, Shirley opened a restaurant in Orange County, Twenty Eight, featuring modern Chinese cuisine. Then after she opened China Poblano which was awarded the Best New Restaurant Award by James Beard in 2011."
+    },
+    "recipes_1": {
+      "recipe_name": "Taiwanese Fried Chicken",
+      "ingredients": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces,1/2 cup cornstarch,1/4 cup all-purpose flour,1 tablespoon five-spice powder, 1 tablespoon garlic powder",
+      "cooking_method": "In a large bowl, mix together the cornstarch, all-purpose flour, five-spice powder, garlic powder, salt, and pepper.Dredge the chicken pieces in the flour mixture until well coated.Heat up some oil in a large pan or wok over high heat.Fry the chicken pieces in the oil until golden brown and crispy, about 5-7 minutes.Remove the chicken from the oil with a slotted spoon and drain on paper towels.Garnish with chopped scallions and serve hot. ",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "3",
+    "chef": {
+      "name": "Vineet Bhatia",
+      "recipe_number": "12",
+      "likes": "6",
+      "experience": "20 years",
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    },
+    "recipes_1": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "2",
+    "chef": {
+      "name": "Shirley Chung",
+      "recipe_number": "10",
+      "likes": "7",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Shirley Chung attended the California Culinary Academy, San Francisco, where she trained in classic French and Italian cuisine.She began by working and opening restaurants for Thomas Keller, Guy Savoy and Mario Batali. In season 11 of “Top Chef” in New Orleans, she was the finalist. She also competed on season 14 of BravoTV’s Top Chef, where she named the runner-up of Top Chef.In 2014, Shirley opened a restaurant in Orange County, Twenty Eight, featuring modern Chinese cuisine. Then after she opened China Poblano which was awarded the Best New Restaurant Award by James Beard in 2011."
+    },
+    "recipes_1": {
+      "recipe_name": "Taiwanese Fried Chicken",
+      "ingredients": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces,1/2 cup cornstarch,1/4 cup all-purpose flour,1 tablespoon five-spice powder, 1 tablespoon garlic powder",
+      "cooking_method": "In a large bowl, mix together the cornstarch, all-purpose flour, five-spice powder, garlic powder, salt, and pepper.Dredge the chicken pieces in the flour mixture until well coated.Heat up some oil in a large pan or wok over high heat.Fry the chicken pieces in the oil until golden brown and crispy, about 5-7 minutes.Remove the chicken from the oil with a slotted spoon and drain on paper towels.Garnish with chopped scallions and serve hot. ",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "2",
+    "chef": {
+      "name": "Shirley Chung",
+      "recipe_number": "10",
+      "likes": "7",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Shirley Chung attended the California Culinary Academy, San Francisco, where she trained in classic French and Italian cuisine.She began by working and opening restaurants for Thomas Keller, Guy Savoy and Mario Batali. In season 11 of “Top Chef” in New Orleans, she was the finalist. She also competed on season 14 of BravoTV’s Top Chef, where she named the runner-up of Top Chef.In 2014, Shirley opened a restaurant in Orange County, Twenty Eight, featuring modern Chinese cuisine. Then after she opened China Poblano which was awarded the Best New Restaurant Award by James Beard in 2011."
+    },
+    "recipes_1": {
+      "recipe_name": "Taiwanese Fried Chicken",
+      "ingredients": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces,1/2 cup cornstarch,1/4 cup all-purpose flour,1 tablespoon five-spice powder, 1 tablespoon garlic powder",
+      "cooking_method": "In a large bowl, mix together the cornstarch, all-purpose flour, five-spice powder, garlic powder, salt, and pepper.Dredge the chicken pieces in the flour mixture until well coated.Heat up some oil in a large pan or wok over high heat.Fry the chicken pieces in the oil until golden brown and crispy, about 5-7 minutes.Remove the chicken from the oil with a slotted spoon and drain on paper towels.Garnish with chopped scallions and serve hot. ",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "chef": {
+      "name": "Vineet Bhatia",
+      "recipe_number": "12",
+      "likes": "6",
+      "experience": "20 years",
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    },
+    "recipes_1": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "4",
+    "chef": {
+      "name": "Ferran Adrià",
+      "recipe_number": "15",
+      "likes": "10",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Ferran Adrià is one of the most influential 21st century chefs in the world. His name is often associated with contemporary Spanish cuisine and as one of the forefathers of the trend known as molecular gastronomy.His cuisine are unique and creative as expressed in his now closed el Bulli restaurant. He reinvents classic dishes to give them new appearances, new textures and new personalities.One of his famous dishes is the spherified olive: an olive which looks like an olive, tastes like an olive but appears as something different in the mouth."
+    },
+    "recipes_1": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "61f9ce168f7b15aadec11d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "4",
+    "chef": {
+      "name": "Ferran Adrià",
+      "recipe_number": "15",
+      "likes": "10",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Ferran Adrià is one of the most influential 21st century chefs in the world. His name is often associated with contemporary Spanish cuisine and as one of the forefathers of the trend known as molecular gastronomy.His cuisine are unique and creative as expressed in his now closed el Bulli restaurant. He reinvents classic dishes to give them new appearances, new textures and new personalities.One of his famous dishes is the spherified olive: an olive which looks like an olive, tastes like an olive but appears as something different in the mouth."
+    },
+    "recipes_1": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "4",
+    "chef": {
+      "name": "Ferran Adrià",
+      "recipe_number": "15",
+      "likes": "10",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Ferran Adrià is one of the most influential 21st century chefs in the world. His name is often associated with contemporary Spanish cuisine and as one of the forefathers of the trend known as molecular gastronomy.His cuisine are unique and creative as expressed in his now closed el Bulli restaurant. He reinvents classic dishes to give them new appearances, new textures and new personalities.One of his famous dishes is the spherified olive: an olive which looks like an olive, tastes like an olive but appears as something different in the mouth."
+    },
+    "recipes_1": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc9c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "4",
+    "chef": {
+      "name": "Ferran Adrià",
+      "recipe_number": "15",
+      "likes": "10",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Ferran Adrià is one of the most influential 21st century chefs in the world. His name is often associated with contemporary Spanish cuisine and as one of the forefathers of the trend known as molecular gastronomy.His cuisine are unique and creative as expressed in his now closed el Bulli restaurant. He reinvents classic dishes to give them new appearances, new textures and new personalities.One of his famous dishes is the spherified olive: an olive which looks like an olive, tastes like an olive but appears as something different in the mouth."
+    },
+    "recipes_1": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chef": {
+      "name": "Apirawat Chaopo-en",
+      "recipe_number": "17",
+      "likes": "9",
+      "experience": "14 years",
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Three years working at Le Normandie, Mandarin Oriental Bangkok gave Chef Mai the chance to sharpen his ability from going by 3 Michelin culinary experts. That was the source of his energy for food and other culinary techniques. He trusts that everything on the plate must be consumable, lovely and completely delectable. From a model French establishment he built up his own particular East mets west style utilizing creative techniques. He won Iron Chef of Thailand 2014."
+    },
+    "recipes_1": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "f06f8cc035b04bd1158ee198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chef": {
+      "name": "Apirawat Chaopo-en",
+      "recipe_number": "17",
+      "likes": "9",
+      "experience": "14 years",
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Three years working at Le Normandie, Mandarin Oriental Bangkok gave Chef Mai the chance to sharpen his ability from going by 3 Michelin culinary experts. That was the source of his energy for food and other culinary techniques. He trusts that everything on the plate must be consumable, lovely and completely delectable. From a model French establishment he built up his own particular East mets west style utilizing creative techniques. He won Iron Chef of Thailand 2014."
+    },
+    "recipes_1": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chef": {
+      "name": "Apirawat Chaopo-en",
+      "recipe_number": "17",
+      "likes": "9",
+      "experience": "14 years",
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Three years working at Le Normandie, Mandarin Oriental Bangkok gave Chef Mai the chance to sharpen his ability from going by 3 Michelin culinary experts. That was the source of his energy for food and other culinary techniques. He trusts that everything on the plate must be consumable, lovely and completely delectable. From a model French establishment he built up his own particular East mets west style utilizing creative techniques. He won Iron Chef of Thailand 2014."
+    },
+    "recipes_1": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "f06f8cc035b04bd11q8e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chef": {
+      "name": "Apirawat Chaopo-en",
+      "recipe_number": "17",
+      "likes": "9",
+      "experience": "14 years",
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Three years working at Le Normandie, Mandarin Oriental Bangkok gave Chef Mai the chance to sharpen his ability from going by 3 Michelin culinary experts. That was the source of his energy for food and other culinary techniques. He trusts that everything on the plate must be consumable, lovely and completely delectable. From a model French establishment he built up his own particular East mets west style utilizing creative techniques. He won Iron Chef of Thailand 2014."
+    },
+    "recipes_1": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "f06f8cc035b04b11158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chef": {
+      "name": "Apirawat Chaopo-en",
+      "recipe_number": "17",
+      "likes": "9",
+      "experience": "14 years",
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Three years working at Le Normandie, Mandarin Oriental Bangkok gave Chef Mai the chance to sharpen his ability from going by 3 Michelin culinary experts. That was the source of his energy for food and other culinary techniques. He trusts that everything on the plate must be consumable, lovely and completely delectable. From a model French establishment he built up his own particular East mets west style utilizing creative techniques. He won Iron Chef of Thailand 2014."
+    },
+    "recipes_1": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "2",
+    "chef": {
+      "name": "Shirley Chung",
+      "recipe_number": "10",
+      "likes": "7",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Shirley Chung attended the California Culinary Academy, San Francisco, where she trained in classic French and Italian cuisine.She began by working and opening restaurants for Thomas Keller, Guy Savoy and Mario Batali. In season 11 of “Top Chef” in New Orleans, she was the finalist. She also competed on season 14 of BravoTV’s Top Chef, where she named the runner-up of Top Chef.In 2014, Shirley opened a restaurant in Orange County, Twenty Eight, featuring modern Chinese cuisine. Then after she opened China Poblano which was awarded the Best New Restaurant Award by James Beard in 2011."
+    },
+    "recipes_1": {
+      "recipe_name": "Taiwanese Fried Chicken",
+      "ingredients": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces,1/2 cup cornstarch,1/4 cup all-purpose flour,1 tablespoon five-spice powder, 1 tablespoon garlic powder",
+      "cooking_method": "In a large bowl, mix together the cornstarch, all-purpose flour, five-spice powder, garlic powder, salt, and pepper.Dredge the chicken pieces in the flour mixture until well coated.Heat up some oil in a large pan or wok over high heat.Fry the chicken pieces in the oil until golden brown and crispy, about 5-7 minutes.Remove the chicken from the oil with a slotted spoon and drain on paper towels.Garnish with chopped scallions and serve hot. ",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "chef": {
+      "name": "Hiroyuki Sakai",
+      "recipe_number": "20",
+      "likes": "10",
+      "experience": "19 years",
+      "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Hiroyuki Sakai is best known as the second, final, and longest-serving Iron Chef French on the Japanese television show Iron Chef. He was named the “King of Iron Chefs” after emerging victorious from the show’s grand finale, a tournament involving all the active Iron Chefs. Sakai specializes in French cuisine. He was mentored by the Japan’s pioneer of French Cooking, Fujio Shido for three years."
+    },
+    "recipes_1": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "4e6092d54c18f2d89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "chef": {
+      "name": "Hiroyuki Sakai",
+      "recipe_number": "20",
+      "likes": "10",
+      "experience": "19 years",
+      "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Hiroyuki Sakai is best known as the second, final, and longest-serving Iron Chef French on the Japanese television show Iron Chef. He was named the “King of Iron Chefs” after emerging victorious from the show’s grand finale, a tournament involving all the active Iron Chefs. Sakai specializes in French cuisine. He was mentored by the Japan’s pioneer of French Cooking, Fujio Shido for three years."
+    },
+    "recipes_1": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "4e6092d54c18fbd897d59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "chef": {
+      "name": "Hiroyuki Sakai",
+      "recipe_number": "20",
+      "likes": "10",
+      "experience": "19 years",
+      "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Hiroyuki Sakai is best known as the second, final, and longest-serving Iron Chef French on the Japanese television show Iron Chef. He was named the “King of Iron Chefs” after emerging victorious from the show’s grand finale, a tournament involving all the active Iron Chefs. Sakai specializes in French cuisine. He was mentored by the Japan’s pioneer of French Cooking, Fujio Shido for three years."
+    },
+    "recipes_1": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59er8a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "chef": {
+      "name": "Hiroyuki Sakai",
+      "recipe_number": "20",
+      "likes": "10",
+      "experience": "19 years",
+      "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Hiroyuki Sakai is best known as the second, final, and longest-serving Iron Chef French on the Japanese television show Iron Chef. He was named the “King of Iron Chefs” after emerging victorious from the show’s grand finale, a tournament involving all the active Iron Chefs. Sakai specializes in French cuisine. He was mentored by the Japan’s pioneer of French Cooking, Fujio Shido for three years."
+    },
+    "recipes_1": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "4e6092d54c18fbd8xad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "6",
+    "chef": {
+      "name": "Hiroyuki Sakai",
+      "recipe_number": "20",
+      "likes": "10",
+      "experience": "19 years",
+      "image": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Hiroyuki Sakai is best known as the second, final, and longest-serving Iron Chef French on the Japanese television show Iron Chef. He was named the “King of Iron Chefs” after emerging victorious from the show’s grand finale, a tournament involving all the active Iron Chefs. Sakai specializes in French cuisine. He was mentored by the Japan’s pioneer of French Cooking, Fujio Shido for three years."
+    },
+    "recipes_1": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Miso Soup with Clams and Vegetables",
+      "ingredients": "1/2 cup miso paste, 4 cups dashi broth, 1 cup clams, cleaned and rinsed, 1 carrot, julienned, 1/2 onion, sliced ,1/2 cup shiitake mushrooms, sliced, 1/2 cup spinach leaves",
+      "cooking_method": "In a pot, bring the dashi broth to a boil. Add the clams, carrot, onion, and shiitake mushrooms, and simmer until the vegetables are tender and the clams have opened. In a small bowl, whisk together the miso paste and a ladleful of the hot broth until smooth. Add the miso mixture to the pot and stir until well combined. Add the spinach leaves and cook for an additional 1-2 minutes. Serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "chef": {
+      "name": "Asad Latif",
+      "recipe_number": "8",
+      "likes": "5",
+      "experience": "6 years",
+      "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    "recipes_1": {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": "1 kg boneless chicken cut into small pieces, 1 cup yogurt, 2 tablespoons ginger garlic paste, 1 teaspoon cumin powder, 1 teaspoon coriander powder",
+      "cooking_method": "In a large bowl, mix together the yogurt, ginger garlic paste, cumin powder, coriander powder, red chili powder, and salt. Add the chicken pieces to the bowl and coat them well with the marinade. Let it marinate for at least 2 hours. Preheat the oven to 200°C. Thread the chicken pieces onto skewers and place them on a baking tray.Brush some oil over the chicken and bake in the oven for 15-20 minutes, until cooked through. Garnish with chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Biryani",
+      "ingredients": "1 kg chicken or lamb cut into small pieces, 4 cups basmati rice, 2 onions sliced, 4 tomatoes chopped,4 green chilies chopped,1 tablespoon ginger garlic paste",
+      "cooking_method": "Rinse the rice and soak it in water for 30 minutes.In a large pot, heat up some oil and fry the sliced onions until golden brown. Remove and set aside. In the same pot, add the chopped tomatoes, green chilies, ginger garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5 minutes. Add the chicken or lamb pieces back to the pot and mix well. Drain the soaked rice and add it to the pot. Mix well and add enough water to cover the rice. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes, until the rice is tender and cooked through. Garnish with fried onions and chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Gulab Jamun",
+      "ingredients": "1 cup milk powder,1/2 cup all-purpose flour,1/2 teaspoon baking powder,1/4 teaspoon cardamom powder,1/4 cup ghee",
+      "cooking_method": "In a large bowl, mix together the milk powder, all-purpose flour, baking powder, and cardamom powder.Add the ghee and mix well with your hands until the mixture resembles bread crumbs.Gradually add the milk and knead the mixture into a soft dough.Divide the dough into small balls",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "chef": {
+      "name": "Asad Latif",
+      "recipe_number": "8",
+      "likes": "5",
+      "experience": "6 years",
+      "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    "recipes_1": {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": "1 kg boneless chicken cut into small pieces, 1 cup yogurt, 2 tablespoons ginger garlic paste, 1 teaspoon cumin powder, 1 teaspoon coriander powder",
+      "cooking_method": "In a large bowl, mix together the yogurt, ginger garlic paste, cumin powder, coriander powder, red chili powder, and salt. Add the chicken pieces to the bowl and coat them well with the marinade. Let it marinate for at least 2 hours. Preheat the oven to 200°C. Thread the chicken pieces onto skewers and place them on a baking tray.Brush some oil over the chicken and bake in the oven for 15-20 minutes, until cooked through. Garnish with chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Biryani",
+      "ingredients": "1 kg chicken or lamb cut into small pieces, 4 cups basmati rice, 2 onions sliced, 4 tomatoes chopped,4 green chilies chopped,1 tablespoon ginger garlic paste",
+      "cooking_method": "Rinse the rice and soak it in water for 30 minutes.In a large pot, heat up some oil and fry the sliced onions until golden brown. Remove and set aside. In the same pot, add the chopped tomatoes, green chilies, ginger garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5 minutes. Add the chicken or lamb pieces back to the pot and mix well. Drain the soaked rice and add it to the pot. Mix well and add enough water to cover the rice. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes, until the rice is tender and cooked through. Garnish with fried onions and chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Gulab Jamun",
+      "ingredients": "1 cup milk powder,1/2 cup all-purpose flour,1/2 teaspoon baking powder,1/4 teaspoon cardamom powder,1/4 cup ghee",
+      "cooking_method": "In a large bowl, mix together the milk powder, all-purpose flour, baking powder, and cardamom powder.Add the ghee and mix well with your hands until the mixture resembles bread crumbs.Gradually add the milk and knead the mixture into a soft dough.Divide the dough into small balls",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "2",
+    "chef": {
+      "name": "Shirley Chung",
+      "recipe_number": "10",
+      "likes": "7",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Shirley Chung attended the California Culinary Academy, San Francisco, where she trained in classic French and Italian cuisine.She began by working and opening restaurants for Thomas Keller, Guy Savoy and Mario Batali. In season 11 of “Top Chef” in New Orleans, she was the finalist. She also competed on season 14 of BravoTV’s Top Chef, where she named the runner-up of Top Chef.In 2014, Shirley opened a restaurant in Orange County, Twenty Eight, featuring modern Chinese cuisine. Then after she opened China Poblano which was awarded the Best New Restaurant Award by James Beard in 2011."
+    },
+    "recipes_1": {
+      "recipe_name": "Taiwanese Fried Chicken",
+      "ingredients": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces,1/2 cup cornstarch,1/4 cup all-purpose flour,1 tablespoon five-spice powder, 1 tablespoon garlic powder",
+      "cooking_method": "In a large bowl, mix together the cornstarch, all-purpose flour, five-spice powder, garlic powder, salt, and pepper.Dredge the chicken pieces in the flour mixture until well coated.Heat up some oil in a large pan or wok over high heat.Fry the chicken pieces in the oil until golden brown and crispy, about 5-7 minutes.Remove the chicken from the oil with a slotted spoon and drain on paper towels.Garnish with chopped scallions and serve hot. ",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "df11ff9feefc376139c3a4486ce02151",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "2",
+    "chef": {
+      "name": "Shirley Chung",
+      "recipe_number": "10",
+      "likes": "7",
+      "experience": "10 years",
+      "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Shirley Chung attended the California Culinary Academy, San Francisco, where she trained in classic French and Italian cuisine.She began by working and opening restaurants for Thomas Keller, Guy Savoy and Mario Batali. In season 11 of “Top Chef” in New Orleans, she was the finalist. She also competed on season 14 of BravoTV’s Top Chef, where she named the runner-up of Top Chef.In 2014, Shirley opened a restaurant in Orange County, Twenty Eight, featuring modern Chinese cuisine. Then after she opened China Poblano which was awarded the Best New Restaurant Award by James Beard in 2011."
+    },
+    "recipes_1": {
+      "recipe_name": "Taiwanese Fried Chicken",
+      "ingredients": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces,1/2 cup cornstarch,1/4 cup all-purpose flour,1 tablespoon five-spice powder, 1 tablespoon garlic powder",
+      "cooking_method": "In a large bowl, mix together the cornstarch, all-purpose flour, five-spice powder, garlic powder, salt, and pepper.Dredge the chicken pieces in the flour mixture until well coated.Heat up some oil in a large pan or wok over high heat.Fry the chicken pieces in the oil until golden brown and crispy, about 5-7 minutes.Remove the chicken from the oil with a slotted spoon and drain on paper towels.Garnish with chopped scallions and serve hot. ",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Taiwanese Beef Noodle Soup",
+      "ingredients": "2 lbs beef shank, cut into large chunks, 2 onions, chopped, 1 head garlic, chopped, 1 inch ginger, chopped, 1/2 cup soy sauce",
+      "cooking_method": "In a large pot, heat up some oil over high heat.Add the onions, garlic, and ginger and stir-fry for 1-2 minutes.Add the beef chunks and sear until browned on all sides.Add the soy sauce, dark soy sauce, rock sugar, Sichuan peppercorns, cinnamon sticks, and star anise. Mix well.Add the beef broth and bring the mixture to a boil.Reduce the heat to low and let the soup simmer for 2-3 hours, until the beef is tender and the broth is flavorful.Cook the fresh wheat noodles according to the package instructions.To serve, divide the noodles among bowls and ladle the beef and broth on top. Add the blanched bok choy and garnish with chopped scallions and cilantro.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "919db97c34e0778b387dd40cdfa08130",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "chef": {
+      "name": "Asad Latif",
+      "recipe_number": "8",
+      "likes": "5",
+      "experience": "6 years",
+      "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    "recipes_1": {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": "1 kg boneless chicken cut into small pieces, 1 cup yogurt, 2 tablespoons ginger garlic paste, 1 teaspoon cumin powder, 1 teaspoon coriander powder",
+      "cooking_method": "In a large bowl, mix together the yogurt, ginger garlic paste, cumin powder, coriander powder, red chili powder, and salt. Add the chicken pieces to the bowl and coat them well with the marinade. Let it marinate for at least 2 hours. Preheat the oven to 200°C. Thread the chicken pieces onto skewers and place them on a baking tray.Brush some oil over the chicken and bake in the oven for 15-20 minutes, until cooked through. Garnish with chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Biryani",
+      "ingredients": "1 kg chicken or lamb cut into small pieces, 4 cups basmati rice, 2 onions sliced, 4 tomatoes chopped,4 green chilies chopped,1 tablespoon ginger garlic paste",
+      "cooking_method": "Rinse the rice and soak it in water for 30 minutes.In a large pot, heat up some oil and fry the sliced onions until golden brown. Remove and set aside. In the same pot, add the chopped tomatoes, green chilies, ginger garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5 minutes. Add the chicken or lamb pieces back to the pot and mix well. Drain the soaked rice and add it to the pot. Mix well and add enough water to cover the rice. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes, until the rice is tender and cooked through. Garnish with fried onions and chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Gulab Jamun",
+      "ingredients": "1 cup milk powder,1/2 cup all-purpose flour,1/2 teaspoon baking powder,1/4 teaspoon cardamom powder,1/4 cup ghee",
+      "cooking_method": "In a large bowl, mix together the milk powder, all-purpose flour, baking powder, and cardamom powder.Add the ghee and mix well with your hands until the mixture resembles bread crumbs.Gradually add the milk and knead the mixture into a soft dough.Divide the dough into small balls",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "chef": {
+      "name": "Asad Latif",
+      "recipe_number": "8",
+      "likes": "5",
+      "experience": "6 years",
+      "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    "recipes_1": {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": "1 kg boneless chicken cut into small pieces, 1 cup yogurt, 2 tablespoons ginger garlic paste, 1 teaspoon cumin powder, 1 teaspoon coriander powder",
+      "cooking_method": "In a large bowl, mix together the yogurt, ginger garlic paste, cumin powder, coriander powder, red chili powder, and salt. Add the chicken pieces to the bowl and coat them well with the marinade. Let it marinate for at least 2 hours. Preheat the oven to 200°C. Thread the chicken pieces onto skewers and place them on a baking tray.Brush some oil over the chicken and bake in the oven for 15-20 minutes, until cooked through. Garnish with chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Biryani",
+      "ingredients": "1 kg chicken or lamb cut into small pieces, 4 cups basmati rice, 2 onions sliced, 4 tomatoes chopped,4 green chilies chopped,1 tablespoon ginger garlic paste",
+      "cooking_method": "Rinse the rice and soak it in water for 30 minutes.In a large pot, heat up some oil and fry the sliced onions until golden brown. Remove and set aside. In the same pot, add the chopped tomatoes, green chilies, ginger garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5 minutes. Add the chicken or lamb pieces back to the pot and mix well. Drain the soaked rice and add it to the pot. Mix well and add enough water to cover the rice. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes, until the rice is tender and cooked through. Garnish with fried onions and chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Gulab Jamun",
+      "ingredients": "1 cup milk powder,1/2 cup all-purpose flour,1/2 teaspoon baking powder,1/4 teaspoon cardamom powder,1/4 cup ghee",
+      "cooking_method": "In a large bowl, mix together the milk powder, all-purpose flour, baking powder, and cardamom powder.Add the ghee and mix well with your hands until the mixture resembles bread crumbs.Gradually add the milk and knead the mixture into a soft dough.Divide the dough into small balls",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "chef": {
+      "name": "Vineet Bhatia",
+      "recipe_number": "12",
+      "likes": "6",
+      "experience": "20 years",
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    },
+    "recipes_1": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "1b03149c50f1bec662062d930bf46489",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "1",
+    "chef": {
+      "name": "Asad Latif",
+      "recipe_number": "8",
+      "likes": "5",
+      "experience": "6 years",
+      "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies."
+    },
+    "recipes_1": {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": "1 kg boneless chicken cut into small pieces, 1 cup yogurt, 2 tablespoons ginger garlic paste, 1 teaspoon cumin powder, 1 teaspoon coriander powder",
+      "cooking_method": "In a large bowl, mix together the yogurt, ginger garlic paste, cumin powder, coriander powder, red chili powder, and salt. Add the chicken pieces to the bowl and coat them well with the marinade. Let it marinate for at least 2 hours. Preheat the oven to 200°C. Thread the chicken pieces onto skewers and place them on a baking tray.Brush some oil over the chicken and bake in the oven for 15-20 minutes, until cooked through. Garnish with chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Biryani",
+      "ingredients": "1 kg chicken or lamb cut into small pieces, 4 cups basmati rice, 2 onions sliced, 4 tomatoes chopped,4 green chilies chopped,1 tablespoon ginger garlic paste",
+      "cooking_method": "Rinse the rice and soak it in water for 30 minutes.In a large pot, heat up some oil and fry the sliced onions until golden brown. Remove and set aside. In the same pot, add the chopped tomatoes, green chilies, ginger garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Cook for 5 minutes. Add the chicken or lamb pieces back to the pot and mix well. Drain the soaked rice and add it to the pot. Mix well and add enough water to cover the rice. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a lid. Cook for 20-25 minutes, until the rice is tender and cooked through. Garnish with fried onions and chopped coriander leaves and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Gulab Jamun",
+      "ingredients": "1 cup milk powder,1/2 cup all-purpose flour,1/2 teaspoon baking powder,1/4 teaspoon cardamom powder,1/4 cup ghee",
+      "cooking_method": "In a large bowl, mix together the milk powder, all-purpose flour, baking powder, and cardamom powder.Add the ghee and mix well with your hands until the mixture resembles bread crumbs.Gradually add the milk and knead the mixture into a soft dough.Divide the dough into small balls",
+      "rating": "4.5 "
+    }
+  },
+
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "chef": {
+      "name": "Vineet Bhatia",
+      "recipe_number": "12",
+      "likes": "6",
+      "experience": "20 years",
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    },
+    "recipes_1": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111h18883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "3",
+    "chef": {
+      "name": "Vineet Bhatia",
+      "recipe_number": "12",
+      "likes": "6",
+      "experience": "20 years",
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    },
+    "recipes_1": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Tandoori Salmon Tikka",
+      "ingredients": "4 salmon fillets, cut into large cubes,1/2 cup Greek yogurt,1 tablespoon garlic paste,1 tablespoon ginger paste, 1 tablespoon red chili powder",
+      "cooking_method": "In a large bowl, mix together the Greek yogurt, garlic paste, ginger paste,red chili powder, cumin powder, coriander powder, and salt. Add the salmon cubes and coat well with the marinade.Cover the bowl and refrigerate for at least 30 minutes.Preheat a grill or grill pan to high heat.Thread the salmon cubes onto skewers and brush with some oil.Grill the salmon skewers for 3-4 minutes on each side, until cooked through and slightly charred.Garnish with chopped cilantro and serve hot.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "6",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "total_view": 354,
+    "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
+    "author": {
+      "name": "Presstv",
+      "published_date": "2022-08-30 17:44:16",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
+    "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "5",
+    "chef": {
+      "name": "Apirawat Chaopo-en",
+      "recipe_number": "17",
+      "likes": "9",
+      "experience": "14 years",
+      "image": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?size=626&ext=jpg&ga=GA1.1.2144989144.1680256746&semt=sph",
+      "details": "Three years working at Le Normandie, Mandarin Oriental Bangkok gave Chef Mai the chance to sharpen his ability from going by 3 Michelin culinary experts. That was the source of his energy for food and other culinary techniques. He trusts that everything on the plate must be consumable, lovely and completely delectable. From a model French establishment he built up his own particular East mets west style utilizing creative techniques. He won Iron Chef of Thailand 2014."
+    },
+    "recipes_1": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Green Papaya Salad with Soft-Shell Crab",
+      "ingredients": "1 green papaya, peeled and shredded, 2 soft-shell crabs , 2 tablespoons fish sauce, tablespoons lime juice, 1 tablespoon palm sugar",
+      "cooking_method": "Season the soft-shell crabs with salt and pepper. In a pan, heat some oil over medium-high heat. Fry the crabs until golden brown and crispy. In a bowl, mix together the fish sauce, lime juice, palm sugar, garlic, and chili. Add the shredded papaya to the bowl and toss to coat. Add the crushed peanuts and mix well. Arrange the papaya salad on a plate and top",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "4",
+    "chef": {
+      "name": "Ferran Adrià",
+      "recipe_number": "15",
+      "likes": "10",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Ferran Adrià is one of the most influential 21st century chefs in the world. His name is often associated with contemporary Spanish cuisine and as one of the forefathers of the trend known as molecular gastronomy.His cuisine are unique and creative as expressed in his now closed el Bulli restaurant. He reinvents classic dishes to give them new appearances, new textures and new personalities.One of his famous dishes is the spherified olive: an olive which looks like an olive, tastes like an olive but appears as something different in the mouth."
+    },
+    "recipes_1": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    }
+  },
+  {
+    "_id": "61f9ce168f7b15aa6ecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "4",
+    "chef": {
+      "name": "Ferran Adrià",
+      "recipe_number": "15",
+      "likes": "10",
+      "experience": "12 years",
+      "image": "https://img.freepik.com/premium-photo/portrait-young-woman-chef-background_488220-23689.jpg?size=626&ext=jpg&ga=GA1.2.2144989144.1680256746&semt=sph",
+      "details": "Ferran Adrià is one of the most influential 21st century chefs in the world. His name is often associated with contemporary Spanish cuisine and as one of the forefathers of the trend known as molecular gastronomy.His cuisine are unique and creative as expressed in his now closed el Bulli restaurant. He reinvents classic dishes to give them new appearances, new textures and new personalities.One of his famous dishes is the spherified olive: an olive which looks like an olive, tastes like an olive but appears as something different in the mouth."
+    },
+    "recipes_1": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_2": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    },
+    "recipes_3": {
+      "recipe_name": "Liquid Olive",
+      "ingredients": "500 grams green olives, pitted,250 grams water,10 grams salt,1 gram xanthan gum,0.5 grams citric acid",
+      "cooking_method": "In a blender, puree the pitted olives until they form a smooth paste.Add the water, salt, xanthan gum, and citric acid to the blender and blend until fully incorporated. Strain the mixture through a fine-mesh sieve to remove any solids. Pour the liquid olive into a bottle and refrigerate until ready to use.",
+      "rating": "4.5 "
+    }
+  }
+]
